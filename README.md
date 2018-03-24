@@ -14,3 +14,7 @@ command=~/.config/i3blocks/scripts/spotify.py
 color=#81b71a
 interval=5
 ```
+
+# Controls
+
+Mouse clicks (left/right) to go forward/backward through tracks and to pause/play with middle-click. 
