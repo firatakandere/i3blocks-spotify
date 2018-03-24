@@ -17,4 +17,4 @@ interval=5
 
 # Controls
 
-If you have playerctl installed on your system, you can uncomment lines in the script to enable mouse clicks (left/right) to go forward/backward through tracks and to pause/play with middle-click. 
+Mouse clicks (left/right) to go forward/backward through tracks and to pause/play with middle-click. 
